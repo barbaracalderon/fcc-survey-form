@@ -12,7 +12,7 @@ body {
 }
 
 #main {
-    background-color: rgb(255, 254, 244);
+    background-color: #EDEFEF;
     text-align: center;
     height: 95rem;
     margin: 0 20rem 0 20rem;
@@ -67,7 +67,7 @@ label {
     color:rgb(50, 78, 113)
 }
 
-#name, #email, #age {
+#name, #email {
     display: block;
     border-style: solid;
     border-width: thin;
