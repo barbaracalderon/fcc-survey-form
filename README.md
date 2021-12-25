@@ -30,4 +30,4 @@ O primeiro desafio era para criar um versão muito simples de uma página tribut
 O principal objetivo é praticar o conteúdo visto no curso e alcançar a solução necessária para ir para a próxima etapa.
 
 ### MY SOLUTION
-![my desktop solution of the freecodecamp number one project from the responsive web design course: a very simple tribute page to Ada Lovelace](BC_ada_lovelace_tribute_page.png)
+![my desktop solution of the freecodecamp number one project from the responsive web design course: a very simple tribute page to Ada Lovelace](BC_survey_form_challenge.png)
