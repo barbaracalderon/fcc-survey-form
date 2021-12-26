@@ -16,7 +16,7 @@ The main goal is to practice the content seen in the course in order to achieve 
 ### MY SOLUTION
 ![my desktop solution of the freecodecamp number two project from the responsive web design course: a freecodecamp survey form](BC_survey_form_challenge.png)
 
-# EN: Freecodecamp #01 Responsive Web Design Project: Tribute Page
+# EN: Freecodecamp #02 Responsive Web Design Project: Formulário de perguntas
 
 Esse repositório contém a minha solução para o desafio número 02 do freecodecamp do curso "Responsive Web Design". Isso é parte de uma série de projetos incrementais em HTML e CSS requisitados para obtenção do certificado em "Responsive Web Design" do Freecodecamp.
 
